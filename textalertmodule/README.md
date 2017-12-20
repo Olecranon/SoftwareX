@@ -1,5 +1,4 @@
-# Workzone Alerts
-Institute of Transportation:  Workzone Congestion Alerts Module
+# Text Alert Module
 
 ## Setup
 1. Download and install [Maven](https://maven.apache.org/install.html) 
@@ -58,7 +57,3 @@ Package/File| Usage
 
 ## Authors
 - Vamsi Krishna J (krishnaj@iastate.edu)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

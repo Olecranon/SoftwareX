@@ -22,3 +22,6 @@
   - httpclient-4.5.3.jar
   - httpcore-4.4.6.jar
   - commons-logging-1.2.jar
+
+## Authors
+- Shefang Wang (sfwang@iastate.edu)
